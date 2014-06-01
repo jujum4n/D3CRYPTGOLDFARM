@@ -1,0 +1,271 @@
+{WinI ("Diablo III")}
+{s down}
+{Delay 0.03}
+{s up}
+{Delay 0.03}
+{ESC down}
+{Delay 0.03}
+{ESC up}
+{Delay 0.03}
+{i down}
+{Delay 0.03}
+{i up}
+{Delay 0.03}
+{MoveI (977,538)}
+{Delay 0.03}
+{MoveI (993,533)}
+{Delay 0.03}
+{MoveI (1099,519)}
+{Delay 0.03}
+{MoveI (1159,508)}
+{Delay 0.03}
+{MoveI (1245,497)}
+{Delay 0.03}
+{MoveI (1328,496)}
+{Delay 0.03}
+{MoveI (1427,516)}
+{Delay 0.03}
+{MoveI (1505,538)}
+{Delay 0.03}
+{MoveI (1543,557)}
+{Delay 0.03}
+{MoveI (1628,597)}
+{Delay 0.03}
+{MoveI (1695,618)}
+{Delay 0.03}
+{MoveI (1738,640)}
+{Delay 0.03}
+{MoveI (1760,667)}
+{Delay 0.03}
+{MoveI (1782,693)}
+{Delay 0.03}
+{MoveI (1800,703)}
+{Delay 0.03}
+{MoveI (1803,703)}
+{Delay 0.03}
+{MoveI (1798,689)}
+{Delay 0.03}
+{MoveI (1774,667)}
+{Delay 0.03}
+{MoveI (1760,656)}
+{Delay 0.03}
+{MoveI (1748,646)}
+{Delay 0.03}
+{MoveI (1745,643)}
+{Delay 0.03}
+{MoveI (1738,639)}
+{Delay 0.03}
+{MoveI (1732,636)}
+{Delay 0.03}
+{RMouseI down (1731,636)}
+{Delay 0.03}
+{MoveI (1731,636)}
+{Delay 0.03}
+{MoveI (1730,641)}
+{Delay 0.03}
+{RMouseI up (1730,643)}
+{Delay 0.03}
+{MoveI (1728,693)}
+{Delay 0.03}
+{MoveI (1727,710)}
+{Delay 0.03}
+{RMouseI down (1726,711)}
+{Delay 0.03}
+{RMouseI up (1726,712)}
+{Delay 0.03}
+{MoveI (1726,720)}
+{Delay 0.03}
+{MoveI (1727,746)}
+{Delay 0.03}
+{MoveI (1728,770)}
+{Delay 0.03}
+{MoveI (1729,800)}
+{Delay 0.03}
+{MoveI (1729,808)}
+{Delay 0.03}
+{RMouseI down (1728,814)}
+{Delay 0.03}
+{MoveI (1728,817)}
+{Delay 0.03}
+{MoveI (1730,817)}
+{Delay 0.03}
+{RMouseI up (1731,817)}
+{Delay 0.03}
+{MoveI (1767,819)}
+{Delay 0.03}
+{MoveI (1776,819)}
+{Delay 0.03}
+{MoveI (1776,819)}
+{Delay 0.03}
+{MoveI (1778,819)}
+{Delay 0.03}
+{RMouseI down (1779,819)}
+{Delay 0.03}
+{RMouseI up (1779,819)}
+{Delay 0.03}
+{MoveI (1778,815)}
+{Delay 0.03}
+{MoveI (1775,796)}
+{Delay 0.03}
+{MoveI (1774,778)}
+{Delay 0.03}
+{MoveI (1773,764)}
+{Delay 0.03}
+{MoveI (1773,759)}
+{Delay 0.o4}
+{RMouseI down (1773,757)}
+{Delay 0.03}
+{RMouseI up (1773,757)}
+{Delay 0.03}
+{MoveI (1773,757)}
+{Delay 0.03}
+{MoveI (1773,744)}
+{Delay 0.03}
+{MoveI (1773,722)}
+{Delay 0.03}
+{MoveI (1773,716)}
+{Delay 0.03}
+{MoveI (1773,715)}
+{Delay 0.03}
+{ALT down}
+{Delay 0.01}
+{MoveI (1773,714)}
+{Delay 0.03}
+{RMouseI down (1773,712)}
+{Delay 0.03}
+{RMouseI up (1773,712)}
+{Delay 0.03}
+{MoveI (1773,708)}
+{Delay 0.03}
+{MoveI (1772,694)}
+{Delay 0.03}
+{MoveI (1771,675)}
+{Delay 0.03}
+{MoveI (1769,661)}
+{Delay 0.03}
+{MoveI (1769,654)}
+{Delay 0.01}
+{ALT up}
+{Delay 0.03}
+{RMouseI down (1769,654)}
+{Delay 0.03}
+{RMouseI up (1769,654)}
+{Delay 0.03}
+{MoveI (1770,654)}
+{Delay 0.03}
+{MoveI (1784,658)}
+{Delay 0.03}
+{MoveI (1814,670)}
+{Delay 0.03}
+{MoveI (1822,674)}
+{Delay 0.03}
+{RMouseI down (1828,676)}
+{Delay 0.03}
+{MoveI (1828,676)}
+{Delay 0.03}
+{RMouseI up (1828,677)}
+{Delay 0.03}
+{MoveI (1828,686)}
+{Delay 0.03}
+{MoveI (1824,728)}
+{Delay 0.03}
+{MoveI (1823,744)}
+{Delay 0.03}
+{MoveI (1821,749)}
+{Delay 0.03}
+{RMouseI down (1821,751)}
+{Delay 0.03}
+{MoveI (1820,751)}
+{Delay 0.03}
+{RMouseI up (1820,752)}
+{Delay 0.03}
+{MoveI (1821,773)}
+{Delay 0.03}
+{MoveI (1822,804)}
+{Delay 0.03}
+{MoveI (1823,814)}
+{Delay 0.03}
+{RMouseI down (1823,817)}
+{Delay 0.03}
+{MoveI (1825,820)}
+{Delay 0.03}
+{RMouseI up (1826,820)}
+{Delay 0.03}
+{MoveI (1868,808)}
+{Delay 0.03}
+{MoveI (1883,805)}
+{Delay 0.03}
+{RMouseI down (1888,803)}
+{Delay 0.03}
+{MoveI (1888,800)}
+{Delay 0.03}
+{MoveI (1885,790)}
+{Delay 0.03}
+{MoveI (1883,777)}
+{Delay 0.03}
+{RMouseI up (1882,770)}
+{Delay 0.03}
+{MoveI (1881,735)}
+{Delay 0.03}
+{MoveI (1880,728)}
+{Delay 0.01}
+{RMouseI down (1880,728)}
+{Delay 0.03}
+{MoveI (1880,728)}
+{Delay 0.03}
+{RMouseI up (1879,726)}
+{Delay 0.03}
+{MoveI (1877,688)}
+{Delay 0.03}
+{MoveI (1878,659)}
+{Delay 0.03}
+{MoveI (1879,653)}
+{Delay 0.03}
+{MoveI (1881,636)}
+{Delay 0.03}
+{RMouseI down (1881,635)}
+{Delay 0.03}
+{RMouseI up (1881,635)}
+{Delay 0.03}
+{MoveI (1881,635)}
+{Delay 0.03}
+{MoveI (1878,635)}
+{Delay 0.03}
+{MoveI (1857,637)}
+{Delay 0.03}
+{MoveI (1824,643)}
+{Delay 0.03}
+{MoveI (1780,652)}
+{Delay 0.03}
+{MoveI (1749,654)}
+{Delay 0.03}
+{MoveI (1711,655)}
+{Delay 0.03}
+{MoveI (1638,652)}
+{Delay 0.03}
+{MoveI (1568,649)}
+{Delay 0.03}
+{MoveI (1524,646)}
+{Delay 0.03}
+{MoveI (1470,639)}
+{Delay 0.03}
+{ESC down}
+{Delay 0.03}
+{MoveI (1398,625)}
+{ESC up}
+{Delay 0.03}
+{MoveI (1373,621)}
+{Delay 0.03}
+{MoveI (1348,619)}
+{Delay 0.03}
+{MoveI (1328,617)}
+{Delay 0.03}
+{MoveI (1311,616)}
+{Delay 0.03}
+{MoveI (1302,616)}
+{Delay 0.03}
+{MoveI (1293,616)}
+{Delay 0.03}
+{MoveI (1288,617)}
+{Delay 0.03}
+{MoveI (1284,618)}
