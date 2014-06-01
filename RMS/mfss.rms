@@ -1,0 +1,270 @@
+{Delay 0.05}
+{Move (1684,604)}
+{Delay 0.04}
+{Move (1693,613)}
+{Delay 0.04}
+{Move (1702,619)}
+{Delay 0.04}
+{Move (1707,622)}
+{Delay 0.04}
+{Move (1713,625)}
+{Delay 0.04}
+{Move (1718,627)}
+{Delay 0.04}
+{Move (1724,632)}
+{Delay 0.08}
+{RMouse down (1725,632)}
+{Delay 0.1}
+{RMouse up (1725,632)}
+{Delay 0.04}
+{Move (1725,637)}
+{Delay 0.04}
+{Move (1726,665)}
+{Delay 0.04}
+{Move (1728,692)}
+{Delay 0.04}
+{Move (1729,713)}
+{Delay 0.04}
+{Move (1729,721)}
+{Delay 0.04}
+{RMouse down (1729,724)}
+{Delay 0.08}
+{RMouse up (1729,724)}
+{Delay 0.04}
+{Move (1729,725)}
+{Delay 0.04}
+{Move (1728,742)}
+{Delay 0.04}
+{Move (1727,772)}
+{Delay 0.04}
+{Move (1725,804)}
+{Delay 0.04}
+{Move (1726,824)}
+{Delay 0.04}
+{Move (1727,830)}
+{Delay 0.03}
+{RMouse down (1727,830)}
+{Delay 0.06}
+{RMouse up (1727,831)}
+{Delay 0.04}
+{Move (1733,829)}
+{Delay 0.04}
+{Move (1746,827)}
+{Delay 0.04}
+{Move (1755,824)}
+{Delay 0.04}
+{Move (1762,820)}
+{Delay 0.06}
+{RMouse down (1764,819)}
+{Delay 0.09}
+{Move (1764,819)}
+{Delay 0.01}
+{RMouse up (1764,819)}
+{Delay 0.04}
+{Move (1767,799)}
+{Delay 0.04}
+{Move (1768,773)}
+{Delay 0.05}
+{Move (1767,754)}
+{Delay 0.04}
+{Move (1767,750)}
+{Delay 0.02}
+{RMouse down (1767,750)}
+{Delay 0.11}
+{RMouse up (1767,750)}
+{Delay 0.04}
+{Move (1767,747)}
+{Delay 0.04}
+{Move (1768,732)}
+{Delay 0.04}
+{Move (1769,718)}
+{Delay 0.04}
+{Move (1771,708)}
+{Delay 0.04}
+{Move (1772,702)}
+{Delay 0.08}
+{LMouse down (1772,701)}
+{Delay 0.04}
+{Move (1772,701)}
+{Delay 0.06}
+{Move (1772,700)}
+{Delay 0.04}
+{Move (1783,671)}
+{Delay 0.04}
+{Move (1807,605)}
+{Delay 0.04}
+{Move (1827,523)}
+{Delay 0.04}
+{Move (1837,461)}
+{Delay 0.04}
+{Move (1841,424)}
+{Delay 0.04}
+{Move (1841,405)}
+{Delay 0.04}
+{Move (1840,395)}
+{Delay 0.04}
+{Move (1839,385)}
+{Delay 0.04}
+{Move (1838,376)}
+{Delay 0.04}
+{Move (1838,372)}
+{Delay 0.04}
+{Move (1838,370)}
+{Delay 0.15}
+{Move (1838,370)}
+{Delay 0.04}
+{Move (1838,372)}
+{Delay 0.04}
+{Move (1839,375)}
+{Delay 0.09}
+{LMouse up (1839,375)}
+{Delay 0.04}
+{Move (1841,377)}
+{Delay 0.04}
+{Move (1842,388)}
+{Delay 0.04}
+{Move (1842,436)}
+{Delay 0.04}
+{Move (1839,494)}
+{Delay 0.04}
+{Move (1833,556)}
+{Delay 0.04}
+{Move (1831,590)}
+{Delay 0.04}
+{Move (1830,612)}
+{Delay 0.04}
+{Move (1830,626)}
+{Delay 0.04}
+{Move (1830,635)}
+{Delay 0.04}
+{Move (1828,644)}
+{Delay 0.04}
+{Move (1827,648)}
+{Delay 0.04}
+{Move (1827,655)}
+{Delay 0.03}
+{RMouse down (1827,656)}
+{Delay 0.07}
+{RMouse up (1827,659)}
+{Delay 0.04}
+{Move (1827,660)}
+{Delay 0.04}
+{Move (1828,687)}
+{Delay 0.04}
+{Move (1829,716)}
+{Delay 0.04}
+{Move (1829,734)}
+{Delay 0.04}
+{Move (1828,739)}
+{Delay 0.02}
+{RMouse down (1828,740)}
+{Delay 0.08}
+{Move (1828,740)}
+{Delay 0.01}
+{RMouse up (1828,740)}
+{Delay 0.04}
+{Move (1828,753)}
+{Delay 0.04}
+{Move (1828,783)}
+{Delay 0.04}
+{Move (1825,806)}
+{Delay 0.04}
+{Move (1824,815)}
+{Delay 0.04}
+{RMouse down (1824,817)}
+{Delay 0.06}
+{Move (1823,817)}
+{Delay 0.01}
+{RMouse up (1823,817)}
+{Delay 0.04}
+{Move (1844,811)}
+{Delay 0.04}
+{Move (1864,804)}
+{Delay 0.04}
+{Move (1868,801)}
+{Delay 0.04}
+{Move (1872,800)}
+{Delay 0.02}
+{RMouse down (1872,800)}
+{Delay 0.05}
+{Move (1873,799)}
+{Delay 0.04}
+{Move (1873,795)}
+{Delay 0.04}
+{Move (1873,788)}
+{Delay 0.01}
+{RMouse up (1873,790)}
+{Delay 0.04}
+{Move (1872,749)}
+{Delay 0.04}
+{Move (1872,727)}
+{Delay 0.04}
+{Move (1871,722)}
+{Delay 0.02}
+{RMouse down (1871,722)}
+{Delay 0.03}
+{RMouse up (1871,721)}
+{Delay 0.04}
+{Move (1871,713)}
+{Delay 0.04}
+{Move (1874,675)}
+{Delay 0.04}
+{Move (1876,640)}
+{Delay 0.04}
+{Move (1876,623)}
+{Delay 0.02}
+{RMouse down (1875,622)}
+{Delay 0.08}
+{Move (1875,622)}
+{Delay 0.02}
+{RMouse up (1875,622)}
+{Delay 0.05}
+{Move (1853,636)}
+{Delay 0.04}
+{Move (1832,647)}
+{Delay 0.04}
+{Move (1820,651)}
+{Delay 0.04}
+{Move (1810,653)}
+{Delay 0.04}
+{Move (1797,654)}
+{Delay 0.04}
+{Move (1785,655)}
+{Delay 0.04}
+{Move (1780,656)}
+{Delay 0.04}
+{Move (1775,657)}
+{Delay 0.04}
+{Move (1771,658)}
+{Delay 0.02}
+{RMouse down (1771,658)}
+{Delay 0.05}
+{Move (1770,658)}
+{Delay 0.01}
+{RMouse up (1770,658)}
+{Delay 0.06}
+{Move (1770,659)}
+{Delay 0.04}
+{Move (1759,667)}
+{Delay 0.04}
+{Move (1721,680)}
+{Delay 0.04}
+{Move (1653,689)}
+{Delay 0.04}
+{Move (1568,689)}
+{Delay 0.04}
+{Move (1500,681)}
+{Delay 0.04}
+{Move (1471,674)}
+{Delay 0.04}
+{Move (1462,670)}
+{Delay 0.04}
+{Move (1460,668)}
+{Delay 0.21}
+{Move (1459,668)}
+{Delay 0.04}
+{Move (1458,668)}
+{Delay 0.05}
+{Move (1455,668)}
+{Delay 0.04}
+{Move (1451,668)}
