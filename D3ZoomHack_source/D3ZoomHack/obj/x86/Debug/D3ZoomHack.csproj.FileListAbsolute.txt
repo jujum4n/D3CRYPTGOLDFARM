@@ -1,0 +1,9 @@
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\bin\Debug\D3ZoomHack.exe
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\bin\Debug\D3ZoomHack.pdb
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\D3ZoomHack.MainForm.resources
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\D3ZoomHack.Properties.Resources.resources
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\D3ZoomHack.exe
+C:\Users\Justin\Downloads\D3ZoomHack\D3ZoomHack\D3ZoomHack\obj\x86\Debug\D3ZoomHack.pdb

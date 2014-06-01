@@ -1,0 +1,8 @@
+C:\Users\Justin\Desktop\source\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\source\obj\x86\Release\LootAlert.ItemFilterEditor.resources
+C:\Users\Justin\Desktop\source\obj\x86\Release\LootAlert.LootAlert.resources
+C:\Users\Justin\Desktop\source\obj\x86\Release\LootAlert.NameFilterEditor.resources
+C:\Users\Justin\Desktop\source\obj\x86\Release\LootAlert.SelectFilterForm.resources
+C:\Users\Justin\Desktop\source\obj\x86\Release\LootAlert.SelectProcessDialog.resources
+C:\Users\Justin\Desktop\source\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\Desktop\source\obj\x86\Release\GenerateResource.write.1.tlog
